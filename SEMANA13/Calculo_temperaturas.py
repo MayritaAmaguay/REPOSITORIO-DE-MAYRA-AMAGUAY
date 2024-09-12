@@ -19,8 +19,8 @@ def temperatura_promedio(ciudades_temperaturas):
 
 # Creamos un diccionario de ciudades y temperaturas
 ciudades_temperaturas = {
-    "Guayas": [22, 25, 26, 24, 23],
-    "Pichincha": [28, 30, 29, 31, 27],
+    "Pichincha": [22, 25, 26, 24, 23],
+    "Guayas": [28, 30, 29, 31, 27],
     "Cuenca": [21, 20, 22, 18, 19],
     "Sucumbios": [32, 33, 34, 30, 32],
     "Pastaza": [26, 28, 27, 29, 25]
